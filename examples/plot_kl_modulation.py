@@ -1,4 +1,4 @@
-
+from src.gw_inspiral import simulate
 from src.kl_modulation import apply_KL_modulation
 
 
