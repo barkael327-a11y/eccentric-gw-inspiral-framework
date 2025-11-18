@@ -246,7 +246,7 @@ def simulate(m1, m2, a0, R, e0=0.0, f0=0.0,
 def apply_KL_modulation(sim,
                     i0_deg=60.0,
                     e_min=None,
-                    e_max=0.8,
+                    e_max=0.9,
                     T_KL=None,
                     include_ecc_boost=True):
 
