@@ -1,4 +1,5 @@
 # examples/run_default_sim.py
+# RUN ME FIRST!!
 
 import numpy as np
 from src.gw_inspiral import simulate
