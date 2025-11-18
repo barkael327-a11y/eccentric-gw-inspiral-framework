@@ -4,10 +4,11 @@ import numpy as np
 from src.gw_inspiral import simulate
 
 #---Set mass, eccentricity, and semi-major axis parameters here---
+#NOTE: I defaulted to component masses of 10 and 20 solar masses for my research paper.
 
 def main():
     m_sun = 1.98847e30
-    m1 = 30.0 * m_sun
+    m1 = 10.0 * m_sun
     m2 = 20.0 * m_sun
     a0 = 1.0e6
     e0 = 0.4
