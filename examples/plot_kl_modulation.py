@@ -1,5 +1,5 @@
 
-from src.gw_inspiral import apply_KL_modulation
+from src.kl_modulation import apply_KL_modulation
 
 
 def main():
