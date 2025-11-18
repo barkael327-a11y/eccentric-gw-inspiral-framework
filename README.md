@@ -1,5 +1,6 @@
 # eccentric-gw-inspiral-framework
 See README for brief description.
+NOTE: Upon activating a python kernel to test this simulation, put run_default_sim.py before all other cells. This cell is where the parameters for the simulation (eccentricity, mass, separation, etc.) are determined. The default parameters are included in the figures for my research paper, but you may change them up to eccentricity = 0.9
 
 # Eccentric GW Inspiral Framework
 
